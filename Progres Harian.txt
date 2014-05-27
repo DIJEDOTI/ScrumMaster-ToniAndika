@@ -42,6 +42,18 @@ Daily Scrum
 1. Hari ini saya melakukan konfigurasi github, node.js skalian buat account trello dan edit profil github
 2. Saya ada kendala dalam penginstalan npm di laptop (sering terjadi error)
 
-(Jonatan Ediputra Sinaga):
+(Jonatan Edi Putra Sinaga):
 1. Hari ini saya melakukan konfigurasi github, daftar account trello, clone link repository github
 2. Saya ada kendala dalam konfigurasi github
+
+27/5
+Daily Scrum
+(Dita Maria Panjaitan):
+1. Semalam saya mencari informasi tentang komponen darah yang berperan dalam penggolongan darah
+2. Hari ini saya akan membahas tentang aglutinin dan aglutinogen
+3. Saya ada Kendala di jaringan (lelet)
+
+(Jonatan Edi Putra Sinaga):
+1. Semalam saya mencari informasi tentang jenis golongan darah
+2. Hari ini saya ingin mencari informasi tentang penggolongan darah sistem rhesus
+3. Saya kurang memahami tentang penggolongan darah
